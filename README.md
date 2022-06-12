@@ -65,13 +65,10 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
-
 ### Original data(first five columns):
 ![original data](https://user-images.githubusercontent.com/87656716/173214355-337ae45c-51ca-43c8-a862-b57c84bda97e.png)
-
 ### Data after dropping unwanted columns(first five):
 ![data after dropping (2)](https://user-images.githubusercontent.com/87656716/173216032-71f7018a-c3bc-4e4d-a06e-5f1977a503ec.png)
-
 ### Checking the presence of null values:
 ![null value](https://user-images.githubusercontent.com/87656716/173214406-206b76c5-d89e-4280-9491-ecd7902a5021.png)
 
