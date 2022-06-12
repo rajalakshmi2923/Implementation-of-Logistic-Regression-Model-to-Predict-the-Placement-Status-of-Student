@@ -92,16 +92,17 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![predicted value (2)](https://user-images.githubusercontent.com/87656716/173215235-9e706f9b-ad98-44bd-9717-422797f74b59.png)
  
 ## Accuracy Score:
-![accuracy](https://user-images.githubusercontent.com/87656716/173215211-3761c20f-32a1-4808-aecb-f70c2ebfc7a1.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/87656716/173216860-ead114dc-b8d2-4b91-a59d-f1324f6ec3aa.png)
 
 ## Confusion Matrix:
 ![confusion matrix](https://user-images.githubusercontent.com/87656716/173215267-6dda6572-e3c1-48ab-89d0-7a143e2f55fc.png)
 
 ## Classification Report:
-![classification report](https://user-images.githubusercontent.com/87656716/173215303-076036ac-e8d2-4a7f-8d3e-782710103be6.png)
+![classification report (2)](https://user-images.githubusercontent.com/87656716/173216942-6f679d18-80f7-4d13-b9eb-889ce39975d6.png)
 
 ## Predicting output from Regression Model:
-![predicted output](https://user-images.githubusercontent.com/87656716/173215313-09a613b9-7f02-479f-90d1-c427b52d384d.png)
+![output](https://user-images.githubusercontent.com/87656716/173216982-49aef455-81ee-42a5-ab7c-4ec23a153aa6.png)
+
 
 
 ## Result:
